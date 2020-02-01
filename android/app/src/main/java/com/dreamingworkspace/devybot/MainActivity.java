@@ -1,4 +1,4 @@
-package com.devybot;
+package com.dreamingworkspace.devybot;
 
 import com.facebook.react.ReactActivity;
 
